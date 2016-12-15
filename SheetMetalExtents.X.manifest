@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="SheetMetalExtents" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{2c264a08-501d-476f-8414-8a52331a8046}" progid="SheetMetalExtents.StandardAddInServer" threadingModel="Both" name="SheetMetalExtents.SheetMetalExtents.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="SheetMetalExtents.dll" hashalg="SHA1"></file>
+
+</assembly>

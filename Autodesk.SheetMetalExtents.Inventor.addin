@@ -1,0 +1,12 @@
+<Addin Type="Standard">
+	<ClassId>{2c264a08-501d-476f-8414-8a52331a8046}</ClassId>
+	<ClientId>{2c264a08-501d-476f-8414-8a52331a8046}</ClientId>
+	<DisplayName>Sheet Metal Extents 3.8</DisplayName>
+	<Description>Creates parameters for the sheet metal extents.</Description>
+	<Assembly>SheetMetalExtents.dll</Assembly>
+	<SupportedSoftwareVersionGreaterThan>16..</SupportedSoftwareVersionGreaterThan>
+	<UserUnloadable>1</UserUnloadable>
+	<Hidden>0</Hidden>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
+
